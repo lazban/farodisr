@@ -486,8 +486,8 @@ a img {
   color: white;
 }
 .site-title img {
-  max-width: 5em;
-  max-height: 1.5em;
+  max-width: 500em;
+  max-height: 150em;
 }
 .site-title:hover, .site-title:active, .site-title:focus {
   opacity: 1;
