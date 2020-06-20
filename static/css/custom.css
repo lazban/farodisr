@@ -17,8 +17,8 @@ Tracks is distributed under the terms of the GNU GPL
 /*===== Variables =====*/
 /* Theme Colors */
 .site-title, .toggle-navigation i {
-  font-size: 1.625em;
-  line-height: 1.85;
+  font-size: 2em;
+  line-height: 1;
 }
 
 .wp-caption-text, .excerpt-meta, .entry-meta, .more-link, .pagination, .further-reading span,
@@ -35,7 +35,14 @@ Tracks is distributed under the terms of the GNU GPL
   padding: 0 5.55%;
 }
 
-.site-title, .menu-unset > ul a,
+.site-title
+{
+  letter-spacing: 0.08em;
+  font-weight: 700;
+  font-family: "impact";
+}
+
+.menu-unset > ul a,
 .menu-primary-items a, .excerpt-meta, .entry-meta, .excerpt-title, .entry-title, .more-link, .pagination, .further-reading,
 .entry-categories,
 .entry-tags, .author-meta .author span, .comments-number h2, .comment-author .author-name, .site-footer h1, .design-credit, .widget-title, .widget li, .menu-footer-items a, .menu-secondary-items a {
