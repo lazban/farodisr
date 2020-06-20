@@ -1,7 +1,19 @@
 <div id="title-info" class="title-info">
+
+  <!--
   <div id='site-title' class='site-title'>
+  -->
+
+  <div id='site-title'>
     {{ if ( ne .Site.Title "" ) }}
+
+    <img src="/img/logo_580.png">
+
+    <!-- vecchio codice
     <a href="{{ .Site.BaseURL | relLangURL }}"> {{ .Site.Title }} </a>
+    -->
+
+
     {{ end }}</div>
   </div>
   <button id="toggle-navigation" class="toggle-navigation">

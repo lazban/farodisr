@@ -9,6 +9,9 @@ googleAnalytics = ""
 preserveTaxonomyNames = true
 paginate = 5 #frontpage pagination
 
+[permalinks]
+  post = "/:year/:month/:slug/"
+  
 [privacy]
   # Google Analytics privacy settings - https://gohugo.io/about/hugo-and-gdpr/index.html#googleanalytics
   [privacy.googleAnalytics]
@@ -22,7 +25,7 @@ paginate = 5 #frontpage pagination
 [params]
   # Unmark to use post folder for images. Default is static folder.
   #usepostimgfolder = true
-  slogan = "Mind the Gap - Un podcast pendolare"
+  slogan = ""
   description = "Mind the Gap è un podcast che narra il viaggio di Nico nella metro di Santa Rosalinda" # meta description
   # You need to set author to have an author bio. If you have a writer in the markdown file it will override this.
   author = ""
