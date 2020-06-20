@@ -398,7 +398,7 @@ a img {
 }
 .skip-content:active, .skip-content:focus {
   top: 0;
-  color: #ffffff;
+  color: #FFFFFF;
 }
 
 .search .sticky {
@@ -941,7 +941,7 @@ a img {
   }
 
   .excerpt-container {
-    background: white;
+    background: #FADF97;
     padding: 0 6.2%;
   }
 
