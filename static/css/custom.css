@@ -1021,7 +1021,7 @@ a img {
   }
 }
 .entry {
-  : white;
+  background: white;
   padding-bottom: 1.5em;
 }
 
