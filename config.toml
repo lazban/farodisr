@@ -60,12 +60,12 @@ paginate = 5 #frontpage pagination
 
   [[menu.main]]
   name = "About"
-  url = "about/"
+  url = "/"
   weight = 2
 
   [[menu.main]]
   name = "Get in touch"
-  url = "contact/"
+  url = "/"
   weight = 3
 
 # this will also be in author bio if there is no writer.

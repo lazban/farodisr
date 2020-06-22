@@ -2702,3 +2702,23 @@ li.pingback:first-child {
     width: 500px !important;
   }
 }
+
+
+
+
+/* UNDERCONSTRUCTION */
+.under-construction {
+  color: #FADF97;
+  font-size: 1.625em;
+  line-height: 3;
+  display: block;
+  text-align: center;
+}
+.under-constrution a {
+  color: #FADF97;
+  text-decoration: none;
+  font-size: 1.625em;
+  line-height: 3;
+  display: block;
+  text-align: center;
+}
