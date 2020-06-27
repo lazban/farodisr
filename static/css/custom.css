@@ -464,6 +464,13 @@ a img {
   height: 0;
 }
 
+/* ALSTOV inventato */
+.title-alstov img {
+  opacity: 1
+  border: 1
+  align: right
+  }
+
 .title-info {
   float: left;
   position: relative;
