@@ -60,7 +60,7 @@ paginate = 5 #frontpage pagination
 
   [[menu.main]]
   name = "Ascolta"
-  url = "/ascolta/"
+  url = "/"
   weight = 2
 
   [[menu.main]]
