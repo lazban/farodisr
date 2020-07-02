@@ -4,6 +4,7 @@ draft = false
 image = "img/portfolio/a4-paper.jpg"
 date = "2017-02-14T07:00:00+02:00"
 title = "titolo"
+slug = "titolo"
 writer = "scrittore dell'articolo"
 categories = [ "meteo"]
 weight = 1
