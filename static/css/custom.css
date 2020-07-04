@@ -14,6 +14,7 @@ Tracks WordPress Theme, Copyright 2017 Compete Themes
 Tracks is distributed under the terms of the GNU GPL
 */
 /*===== Variables =====*/
+
 /* Theme Colors */
 .toggle-navigation i {
   font-size: 1.625em;
@@ -915,6 +916,9 @@ a img {
           backface-visibility: hidden;
 }
 
+
+/* ALSTOV cambio colore dei link del body */
+
 .pagination {
   text-align: center;
   padding: 1.5em;
@@ -923,14 +927,14 @@ a img {
 .pagination a,
 .pagination span {
   margin: 0 0.375em;
-  color: #8c8c8c;
+  color: #FADF97;
 }
 .pagination a:link,
 .pagination a:visited {
-  color: #8c8c8c;
+  color: #FADF97;
 }
 .pagination a:hover, .pagination:active, .pagination:focus {
-  color: #aaaaaa;
+  color: #FADF97;
 }
 
 .infinite-scroll .pagination {
