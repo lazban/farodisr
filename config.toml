@@ -29,7 +29,7 @@ paginate = 5 #frontpage pagination
   description = "Mind the Gap è un podcast che narra il viaggio di Nico nella metro di Santa Rosalinda" # meta description
   # You need to set author to have an author bio. If you have a writer in the markdown file it will override this.
   author = ""
-  authorLink = ""
+  authorLink = "mailto:collettivosantarosalinda@gmail.com"
   bio = [
     ""
   ]
