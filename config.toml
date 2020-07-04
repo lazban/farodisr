@@ -60,7 +60,7 @@ paginate = 5 #frontpage pagination
 
   [[menu.main]]
   name = "Ascolta"
-  url = "/"
+  url = "/ascolta/"
   weight = 2
 
   [[menu.main]]
@@ -70,7 +70,7 @@ paginate = 5 #frontpage pagination
 
   [[menu.main]]
   name = "Contatti"
-  url = "/"
+  url = "/contact/"
   weight = 4
 
 # this will also be in author bio if there is no writer.

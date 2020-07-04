@@ -8,8 +8,12 @@ Per ascoltare il podcast puoi seguire questi link.
 
 - direttamente dal blog (ogni episodio avrà una pagina su questo sito)
 
-- su **Google Podcast** a questo <a href="links.collettivosantarosalinda.info/google">link</a>
+- su <a href="https://links.collettivosantarosalinda.info/google">**Google Podcast**</a>
 
-- su **Apple Podcast** a questo <a href="links.collettivosantarosalinda.info/apple">link</a>
+- su <a href="https://links.collettivosantarosalinda.info/apple">**Apple Podcast**</a>
 
-- su **Spotify** a questo <a href="links.collettivosantarosalinda.info/spotify">link</a>
+- su <a href="https://links.collettivosantarosalinda.info/spotify">**Spotify**</a>
+
+- ma anche su <a href="https://www.breaker.audio/mind-the-gap-8">**Breaker**</a>, <a href="https://overcast.fm/itunes1519490130/mind-the-gap">**Overcast**</a>, <a href="https://pca.st/z8kza96y">**Pocket Cast**</a>, <a href="https://radiopublic.com/mind-the-gap-6NyBly">**RadioPublic**</a>
+
+Se vuoi farci sapere cosa ne pensi, vai nella sezione <a href="/contact/">contatti</a>
