@@ -65,7 +65,7 @@ paginate = 5 #frontpage pagination
 
   [[menu.main]]
   name = "Chi siamo"
-  url = "/"
+  url = "/about/"
   weight = 3
 
   [[menu.main]]

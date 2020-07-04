@@ -6,6 +6,8 @@ title = "Chi siamo?"
 
 Eh... questo podcast è così tante cose che non sappiamo neanche noi da dove cominciare.
 
+{{< figure src="/img/post/nico.jpg" caption="⬆︎ Nico<br> ">}}
+
 - - -
 ### credits
 
