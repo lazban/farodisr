@@ -46,7 +46,7 @@ Questo sito web oltre ad ospitare le puntate del podcast, contiene scritti del *
 * **Giorgio Bernard**
 * **Michele Cecchini** scrittore toscano. Il suo ultimo romanzo "Il cielo per ultimo" è uscito nel 2019 per Bollati Boringhieri. Link: <a target="blank" href="https://michelececchini.it">michelececchini.it</a>
 * **Massimiliano Cerretini**
-* **Sara Fisicaro** insegnante persuasa di fare un gran bel mestiere. Andrei dovunque, anche al cimitero, pur di "andare a giro", come diceva mia nonna.
+* **Sara Fisicaro** insegnante persuasa di fare un gran bel mestiere. Andrebbe dovunque, anche al cimitero, pur di "andare a giro", come diceva sua nonna.
 * **Rosanna Harper**
 * **Pier Dario Marzi**
 * **Enrico Pompeo**
