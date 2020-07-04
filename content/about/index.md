@@ -24,7 +24,7 @@ Nel podcast appaiono anche molti contributi esterni, evidenziati in ogni puntata
 
 ### voci
 
-La voce di _Mind The Gap - Nico_ è soprattutto Nico, alias **Nicoletta La Torre**.
+La voce di _Mind The Gap - Nico_ è soprattutto Nico, alias **Nicoletta La Terra**.
 
 In ogni puntata ricorrono poi altre due voci:
 
