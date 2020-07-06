@@ -1,7 +1,7 @@
 +++
 showonlyimage = true
 draft = false
-image = "img/post/podcast.jpg"
+image = "img/post/podcast2.jpg"
 date = "2020-06-26T07:00:00+02:00"
 title = "Trailer"
 slug = "trailer"
