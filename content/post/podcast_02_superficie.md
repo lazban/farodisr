@@ -41,4 +41,4 @@ Vuoi entrare in contatto con il Collettivo? Tutti i riferimenti a questo <a href
 
 - - -
 
-_Grazie di aver ascoltato. Alla prossima puntata!!_
+_Grazie di aver ascoltato. Alla prossima puntata!_
