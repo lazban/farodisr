@@ -17,7 +17,7 @@ dove si rientra, dopo essere andati.
 
 Potete ascoltare l'episodio del podcast direttamente qui:
 
-<iframe src="https://anchor.fm/collettivosr/embed/episodes/Mind-the-Gap---Nico-1---la-serranda-della-citt-egbcm3" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/collettivosr/embed/episodes/Mind-the-Gap---Nico-2---siamo-rimasti-in-superficie-egl66j" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 O anche sulla vostra piattaforma di podcast preferita (tutti i <a href="/ascolta/">link</a>)
 
